@@ -40,4 +40,4 @@ The database initially proposed for the development of the dashboard was the [Av
 
 ## Conclusion
 
-This short report summarizes essential steps in the data visualization development process. Behind the resulting dashboard there is a sequency of steps as exploratory data analysis, scope and attributes selection, curiosity and question gathering, choice of appropriate visual channels and visualization composition, which combined help to achieve a successful communication with users.
+This short project report summarizes essential steps in the data visualization development process. Behind the resulting dashboard there is an iterative sequency of procedures as exploratory data analysis, scope and attributes selection, curiosity and question gathering, choice of appropriate visual channels and visualization composition, which combined help to achieve a successful communication with users.
